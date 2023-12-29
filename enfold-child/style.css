@@ -1,0 +1,35 @@
+/*
+Theme Name: Website Theme Options
+Theme URI: http://www.kriesi.at/themes/enfold/
+Template: enfold
+Author: Kriesi
+Author URI: https://kriesi.at
+Description: A superflexible and responsive Business Theme by Kriesi - Update notifications available on twitter, facebook and via newsletter: Follow me on twitter - Join the Facebook Group - Subscribe to our Newsletter
+Version: 4.2.1526534425
+Updated: 2018-05-17 05:20:25
+*/
+.add-to-list-button {
+    color: #ffffff;
+    background-color: #060557;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 12px;
+    font-weight: bold;
+}
+.add-to-list-button.added-button {
+    color: #ffffff;
+    background-color:gray;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 12px;
+    font-weight: bold;
+}
+.gvlogic {
+    display: none;
+    text-align: center;
+    display: block;
+    margin: 0 auto; 
+}
+
