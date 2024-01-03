@@ -1,0 +1,24 @@
+.add-to-list-button {
+    color: #ffffff;
+    background-color: #060557;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 12px;
+    font-weight: bold;
+}
+.add-to-list-button.added-button {
+    color: #ffffff;
+    background-color:gray;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 12px;
+    font-weight: bold;
+}
+.gvlogic {
+    display: none;
+    text-align: center;
+    display: block;
+    margin: 0 auto; 
+}
